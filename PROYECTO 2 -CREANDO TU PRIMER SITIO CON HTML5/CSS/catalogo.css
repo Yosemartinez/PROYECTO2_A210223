@@ -1,0 +1,22 @@
+/* Estilos para el área principal */
+.areaPrincipal {
+    text-align: center;
+    padding: 20px;
+    /* Cambia el fondo aquí */
+    background-color: #5883f8; /* Cambia este color por el que desees */
+}
+
+/* Estilos para los elementos dentro del área principal */
+.babydiv {
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+}
+
+/* Estilos para el pie de página */
+.piePagina {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}

@@ -1,0 +1,64 @@
+/* Estilos personalizados */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://img.freepik.com/vector-premium/compras-linea-concepto-pagina-web-diseno-sitio-web-smart-wath_555677-105.jpg'); /* Cambia 'ruta-de-la-imagen.jpg' por la ruta de tu imagen de fondo */
+    background-repeat: no-repeat;
+    background-size: cover; /* Ajusta el tamaño de la imagen de fondo según el tamaño del contenedor */
+    background-color: #33e6e9cc; /* Si la imagen de fondo no se carga, este color se mostrará como fondo de respaldo */
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* Estilos personalizados */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #63bbbdcc;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para la barra de navegación Bootstrap */
+.navbar {
+    background-color: #333;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-weight: bold;
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+}
+
+/* Estilos para la sección de lista y contenido */
+.row {
+    margin-top: 20px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.scrollspy-example {
+    overflow-y: scroll;
+    height: 400px; /* Ajusta la altura según tus necesidades */
+    border: 1px solid #080808;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.scrollspy-example h4 {
+    margin-top: 0;
+}
